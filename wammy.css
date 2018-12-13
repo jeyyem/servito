@@ -1,0 +1,82 @@
+body {
+	font-family: century gothic;
+	color: white;
+	display: grid;
+	grid-gap: 10px;
+	text-align: center;
+	background:	url(lool.jpg);
+}
+.top {
+	text-align: center;
+	background: #222;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.line {
+	height: 1px;
+	width: 400px;
+	margin-left: 475px;
+	background: white;
+}
+div {
+	border-radius: 10px;
+}
+.left {
+	background: #222;
+	text-align: center;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+img {
+	border-radius: 50%;
+}
+h2 {
+	border-bottom: white 1px solid;
+	border-top: white 1px solid;
+	font-family:courier new;
+	
+}
+h1 {
+	font-family:courier new;
+}
+h4 {
+	font-family:courier new;
+	font-size:20px;
+}
+}
+p {
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: center;
+	font-family: Georgia;
+	
+}
+.left-top {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.mid {
+	text-align: center;
+}
+.right-top {
+	background: #222;
+}
+.all {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+}
+.bottom {
+	ma
+	background: #222;
+}
+.right {
+	display: grid;
+	grid-gap: 10px;
+	background: #222;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
